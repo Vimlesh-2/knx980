@@ -1,4 +1,4 @@
-👋 Hi, I’m Vimlesh (@knx980)  
+👋 Hi, I’m Vimlesh  
 - 👀 I’m interested in Web Development, Software Engineering, and Cybersecurity  
 - 🌱 I’m currently learning C/C++ and Web Development  
 - 📫 Reach me: 1vimlesh.only@gmail.com 
